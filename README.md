@@ -1,2 +1,3 @@
-# mri-specific-denoiser
-Code and weights for "Boosting MRI denoising beyond general-purpose image denoisers with MR-specific training" (ISMRM 2027)
+# Boosting MRI denoising beyond general-purpose image denoisers with MR-specific training
+
+Code and model weights for our ISMRM 2027 abstract will be released here.
